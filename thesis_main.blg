@@ -1,0 +1,15 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[1] Config.pm:346> INFO - Logfile is '/data/thesis_main.blg'
+[30] biber:293> INFO - === Mon Oct 31, 2016, 14:13:06
+[59] Biber.pm:352> INFO - Reading '/data/thesis_main.bcf'
+[124] Biber.pm:777> INFO - Found 2 citekeys in bib section 0
+[139] Biber.pm:3494> INFO - Processing section 0
+[157] Biber.pm:3658> INFO - Looking for bibtex format file 'literatur/literatur.bib' for section 0
+[165] bibtex.pm:1176> INFO - Decoding LaTeX character macros into UTF-8
+[167] bibtex.pm:1037> INFO - Found BibTeX data source 'literatur/literatur.bib'
+[223] UCollate.pm:66> INFO - Overriding locale 'de' defaults 'variable = shifted' with 'variable = non-ignorable'
+[224] UCollate.pm:66> INFO - Overriding locale 'de' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[224] Biber.pm:3307> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'de'
+[226] Biber.pm:3311> INFO - No sort tailoring available for locale 'de'
+[232] bbl.pm:526> INFO - Writing '/data/thesis_main.bbl' with encoding 'UTF-8'
+[236] bbl.pm:619> INFO - Output to /data/thesis_main.bbl

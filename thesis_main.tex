@@ -1,0 +1,262 @@
+%-----------------------------------
+% Define document and include general packages
+%-----------------------------------
+\documentclass[12pt,oneside,titlepage,listof=totoc,bibliography=totoc]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[babel,german=quotes]{csquotes}
+\usepackage[T1]{fontenc}
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\usepackage[a4paper, left=3cm, right=3cm, top=3cm, bottom=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage{appendix}
+\usepackage{colortbl}
+\usepackage{array}
+\usepackage{float}      %Positionierung von Abb. und Tabellen mit [H] erzwingen
+\usepackage{footnote}
+\usepackage{caption}
+\usepackage{mdwlist}
+\usepackage{amssymb}
+\usepackage{mathptmx}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{marvosym}			% Verwendung von Symbolen, z.B. perfektes Eurozeichen
+\usepackage[colorlinks=true,linkcolor=black]{hyperref}
+\definecolor{darkblack}{rgb}{0,0,0}
+\hypersetup{colorlinks=true, breaklinks=true, linkcolor=darkblack, menucolor=darkblack, urlcolor=darkblack}
+\usepackage{times}
+\usepackage{enumitem}
+\fontfamily{ptm}\selectfont
+
+	\usepackage{fontspec}
+\setmainfont{Times New Roman}
+
+% Mehrere Fussnoten nacheinander mit Komma separiert
+\usepackage[multiple]{footmisc}
+\usepackage{todonotes}
+
+%Pakete für Tabellen
+\usepackage{epstopdf}
+\usepackage{nicefrac} % Brüche
+\usepackage{multirow}
+\usepackage{rotating} % vertikal schreiben
+\usepackage{colortbl}
+\usepackage{mdwlist}
+
+\definecolor{dunkelgrau}{rgb}{0.8,0.8,0.8}
+\definecolor{hellgrau}{rgb}{0.0,0.7,0.99}
+% Colors for listings
+\definecolor{mauve}{rgb}{0.58,0,0}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+
+% sauber formatierter Quelltext
+\usepackage{listings}
+\lstset{numbers=left,
+	numberstyle=\tiny,
+	numbersep=5pt,
+	breaklines=false,
+	showstringspaces=false,
+	xleftmargin=10pt,
+	xrightmargin=5pt,
+	basicstyle=\ttfamily\scriptsize,
+	stepnumber=1,
+	keywordstyle=\color{blue},          % keyword style
+  	commentstyle=\color{dkgreen},       % comment style
+  	stringstyle=\color{mauve}         % string literal style
+}
+
+\lstdefinestyle{nonumbers}
+{numbers=none}
+
+% Biblatex
+\usepackage[
+backend=biber,
+style=numeric,
+citestyle=authoryear,
+url=false,
+isbn=false,
+notetype=footonly,
+hyperref=false,
+sortlocale=de]{biblatex}
+
+%weitere Anpassungen für BibLaTex
+\input{skripte/modsBiblatex}
+
+%Bib-Datei einbinden
+\addbibresource{./literatur/literatur.bib}
+
+% Pfad fuer Abbildungen
+\graphicspath{{./}{./abbildungen/}}
+
+%-----------------------------------
+% Weitere Ebene einfügen
+\input{skripte/weitereEbene}
+
+%-----------------------------------
+% Zeilenabstand 1,5-zeilig
+%-----------------------------------
+\usepackage{setspace}
+\onehalfspacing
+
+%-----------------------------------
+% Absätze durch eine neue Zeile
+%-----------------------------------
+\setlength{\parindent}{0mm}
+\setlength{\parskip}{0.8em plus 0.5em minus 0.3em}
+
+\sloppy					%Abstände variieren
+\pagestyle{headings}
+
+%-----------------------------------
+% Abkürzungsverzeichnis
+%-----------------------------------
+\usepackage[intoc]{nomencl}
+\renewcommand{\nomname}{Abkürzungsverzeichnis}
+\setlength{\nomlabelwidth}{.20\textwidth}
+\renewcommand{\nomlabel}[1]{#1 \dotfill}
+\setlength{\nomitemsep}{-\parsep}
+\makenomenclature
+
+%-----------------------------------
+% Meta informationen
+%-----------------------------------
+\input{skripte/meta}
+
+%-----------------------------------
+% Footer definieren
+%-----------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot{}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[R]{\thepage}
+  
+%-----------------------------------
+% Start the document here:
+%-----------------------------------
+\begin{document}
+
+\pagenumbering{Roman}								% Seitennumerierung auf römisch umstellen
+\newcolumntype{C}{>{\centering\arraybackslash}X}		% Neuer Tabellen-Spalten-Typ:
+													% Zentriert und umbrechbar
+
+%-----------------------------------
+% Titlepage
+%-----------------------------------
+\begin{titlepage}
+	%\newgeometry{left=2cm, right=2cm, top=2cm, bottom=2cm}
+	\begin{center}
+		\textbf{\myHochschulName}\\
+		\textbf{\myHochschulStandort}\\
+%		\vspace{1.5cm}
+%			\includegraphics[width=3cm]{abbildungen/fomLogo.jpg} \\
+		\vspace{2cm}
+		Berufsbegleitender Studiengang\\
+		\myStudiengang, \mySemesterZahl. Semester\\
+		\vspace{1cm}
+		\textbf{\myThesisArt}\\
+%		\textbf{zur Erlangung des Grades eines}\\
+%		\textbf{\myAkademischerGrad}\\
+		% Oder für Hausarbeiten:
+		\textbf{im Rahmen des Moduls}\\
+		\textbf{\myLehrveranstaltung}\\
+		\vspace{1cm}
+		zu dem Text\\
+		\large{\myTitel}\\
+		\vspace{0.2cm}
+	\end{center}
+	\normalsize
+	\vfill
+	\begin{tabbing}
+		Links \= Mitte \= Rechts\kill
+		Betreuer: \> \> \myBetreuer\\
+		\> \> \\
+
+		Autor: \> \> \myAutor\\
+		\> \>  Matrikelnr.: \myMatrikelNr\\
+		\> \> \myFachsemester\\
+		\> \> \myAdresse\\
+		\> \> \\
+		Abgabe: \> \> \myAbgabeDatum
+	\end{tabbing}
+\end{titlepage}
+
+%-------Ende Titelseite-------------
+
+%-----------------------------------
+% Sperrvermerk
+%-----------------------------------
+%\input{kapitel/anhang/sperrvermerk}
+
+%-----------------------------------
+% Inhaltsverzeichnis
+%-----------------------------------
+\setcounter{page}{2}
+\tableofcontents\thispagestyle{fancy}
+\newpage
+
+%-----------------------------------
+% Abbildungsverzeichnis
+%-----------------------------------
+%\listoffigures
+%\newpage
+
+%-----------------------------------
+% Tabellenverzeichnis
+%-----------------------------------
+%\listoftables
+%\newpage
+
+%-----------------------------------
+% Abkürzungsverzeichnis
+%-----------------------------------
+\printnomenclature
+\newpage
+
+%-----------------------------------
+% Seitennummerierung auf arabisch und ab 1 beginnend umstellen
+%-----------------------------------
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+%-----------------------------------
+% Kapitel / Inhalte
+%-----------------------------------
+\input{kapitel/einleitung/einleitung}
+\input{kapitel/kapitel_1/kapitel_1}
+%\input{kapitel/kapitel_2/kapitel_2}
+%\input{kapitel/kapitel_3/kapitel_3}
+\input{kapitel/schlussbetrachtung/schlussbetrachtung}
+
+%-----------------------------------
+% Literaturverzeichnis
+%-----------------------------------
+%\newpage
+%%\addcontentsline{toc}{section}{Literatur}
+%
+%\pagenumbering{Roman} %Zähler wieder römisch ausgeben
+%\setcounter{page}{7}  %Zähler manuell hochsetzen
+
+%\printbibliography[heading=bibintoc,title={Literaturverzeichnis}]
+%\printbibheading[title={Literaturverzeichnis}]
+%\printbibliography[type=article,heading=subbibliography,title={Artikel}]
+%\printbibliography[type=inproceedings,heading=subbibliography,title={Inproceedings}]
+%\printbibliography[type=book,heading=subbibliography,title={Bücher}]
+%\printbibliography[type=online,heading=subbibliography,title={Webseiten}]
+
+% Alternative Darstellung:
+% Literaturverzeichnis nach Typ (@book, @arcticle ...) sortiert.
+% Dazu die Zeile (\printbibliography) auskommentieren und folgenden code verwenden:
+
+%\printbibheading
+%\printbibliography[type=article,heading=subbibliography,title={Artikel}]
+%\printbibliography[type=book,heading=subbibliography,title={Bücher}]
+%\printbibliography[type=online,heading=subbibliography,title={Webseiten}]
+
+\input{kapitel/anhang/erklaerung}
+
+\newpage\null\thispagestyle{empty}\newpage
+
+\end{document}

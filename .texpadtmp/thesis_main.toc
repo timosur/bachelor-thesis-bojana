@@ -1,0 +1,185 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Definitionen}{2}{section.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Lebensmittel}{2}{subsection.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Lebensmittelverluste}{2}{subsection.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Lebensmittelabfälle}{2}{subsection.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Wertschöpfungskette}{2}{subsection.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Mindesthaltbarkeitsdatum}{3}{subsection.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6}Verbrauchsdatum}{3}{subsection.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Ursachen innerhalb der Wertschöpfungskette und Umwelteffekte von Lebensmittelverlusten und -verschwendung}{3}{section.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Ursachen innerhalb der Wertschöpfungskette}{3}{subsection.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1}Landwirtschaft}{3}{subsubsection.3.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.1.1}Ernteverluste}{3}{paragraph.3.1.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\nonumberline Definition}{4}{section*.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\nonumberline Überschussproduktion}{4}{section*.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.1.2}Nachernteverluste}{4}{paragraph.3.1.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.2}Lebensmittelverarbeitung}{4}{subsubsection.3.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.3}Groß- und Einzelhandel}{5}{subsubsection.3.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.3.1}Lieferkette und Distribution}{6}{paragraph.3.1.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.3.2}Warenpräsentation}{6}{paragraph.3.1.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.3.3}Planung und Organisation}{6}{paragraph.3.1.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.3.4}Convenience und Fresh-Cut}{7}{paragraph.3.1.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.3.5}Mindesthaltbarkeitsdatum}{7}{paragraph.3.1.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.4}Großverbraucher}{7}{subsubsection.3.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.4.1}Hygiene und Sicherheitsvorschriften}{7}{paragraph.3.1.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.4.2}Verluste im Bereich der Küche}{8}{paragraph.3.1.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.4.3}Verluste beim Kunden}{9}{paragraph.3.1.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.4.4}Problematik Messbarkeit}{10}{paragraph.3.1.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.5}Privathaushalte}{10}{subsubsection.3.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.5.1}Mangelnde Einkaufsplanung}{11}{paragraph.3.1.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.5.2}Lagerung}{11}{paragraph.3.1.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.5.3}Zubereitung}{11}{paragraph.3.1.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.5.4}Portionen/Mengen}{11}{paragraph.3.1.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.5.5}Mindesthaltbarkeitsdatum}{12}{paragraph.3.1.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {3.1.5.6}Mangelnde Wertschätzung}{12}{paragraph.3.1.5.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Einfluss der Politik}{12}{subsection.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Umwelteffekte Lebensmittelverlusten und -verschwendung}{13}{subsection.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1}Flächenfußabdruck}{13}{subsubsection.3.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2}Klimafußabdruck}{14}{subsubsection.3.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Lösungsansätze zur Verhinderung von Lebensmittelverschwendung in Privat-Haushalten}{15}{section.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Verderb erkennen}{15}{subsection.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.1}Verderb durch Mikroorganismen}{15}{subsubsection.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.2}Physikalische Ursachen}{16}{subsubsection.4.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3}Biochemische und chemische Veränderungen}{16}{subsubsection.4.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.4}Befall mit tierischen Schädlingen}{16}{subsubsection.4.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.5}Nutzen der Sinnesorgane}{16}{subsubsection.4.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Lagerung von Lebensmitteln}{17}{subsection.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1}Lagerungsorte}{17}{subsubsection.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.1.1}Kühlschrank}{17}{paragraph.4.2.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.1.2}Speisekammer}{17}{paragraph.4.2.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.1.3}Gefrierschrank}{18}{paragraph.4.2.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2}Lagerung nach Lebensmittelkategorie}{18}{subsubsection.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.2.1}Brot und Backwaren}{18}{paragraph.4.2.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.2.2}Milchprodukte}{18}{paragraph.4.2.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.2.3}Teigwaren}{19}{paragraph.4.2.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.2.4}Fleisch und Fisch}{19}{paragraph.4.2.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.2.5}Obst und Gemüse}{19}{paragraph.4.2.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Einkaufsplanung}{20}{subsection.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Verfahren zur Verlängerung der Haltbarkeit}{20}{subsection.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.1}Einkochen}{20}{subsubsection.4.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.1.1}Definition und Prozess}{20}{paragraph.4.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.1.2}Lebensmittel die sich zum Einkochen eignen}{21}{paragraph.4.4.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.1.3}Beim Einkochen beachten}{21}{paragraph.4.4.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2}Fermentierung}{21}{subsubsection.4.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.1}Definition und Prozess}{21}{paragraph.4.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.2}Haltbarkeit}{22}{paragraph.4.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3}Trocknen}{22}{subsubsection.4.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.3.1}Definition und Prozess}{22}{paragraph.4.4.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.3.2}Lebensmittel die sich zum Trocknen eignen}{22}{paragraph.4.4.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.3.3}Lagerung und Haltbarkeit}{23}{paragraph.4.4.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.4}Einlegen}{23}{subsubsection.4.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.4.1}Einlegen in Öl}{23}{paragraph.4.4.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.4.2}Einlegen in Alkohol}{23}{paragraph.4.4.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.5}Pökeln}{24}{subsubsection.4.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.5.1}Defintion}{24}{paragraph.4.4.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.5.2}Pökelverfahren}{24}{paragraph.4.4.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.5.3}Bei dem Verzehr beachten}{25}{paragraph.4.4.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.6}Einfrieren}{25}{subsubsection.4.4.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.6.1}Vorbereitung}{25}{paragraph.4.4.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.6.2}Verpackung}{25}{paragraph.4.4.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.6.3}Lagerdauer}{26}{paragraph.4.4.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.6.4}Auftauen}{26}{paragraph.4.4.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.6.5}Nicht einzufriedende Lebensmittel}{27}{paragraph.4.4.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5}Kompostierung}{27}{subsection.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6}Wertschätzung von Lebensmitteln}{28}{subsection.4.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.1}Ernährungsbildung}{28}{subsubsection.4.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.6.2}Informations Kampagne}{28}{subsubsection.4.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7}Innovation für einen nachhaltigen Lebensmittelumgang}{28}{subsection.4.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.7.1}Too Good To Go}{29}{subsubsection.4.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.7.2}Beste Reste}{29}{subsubsection.4.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.7.3}Lebensmittel- und Kochboxen}{29}{subsubsection.4.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Fazit}{31}{section.5}% 
+\contentsfinish 
